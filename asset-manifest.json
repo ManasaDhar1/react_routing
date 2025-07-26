@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/ManasaDhar1/react_routing1/static/css/main.abea8940.css",
-    "main.js": "/ManasaDhar1/react_routing1/static/js/main.70affcef.js",
-    "static/js/453.71617d8c.chunk.js": "/ManasaDhar1/react_routing1/static/js/453.71617d8c.chunk.js",
-    "static/media/logo.svg": "/ManasaDhar1/react_routing1/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/ManasaDhar1/react_routing1/index.html",
-    "main.abea8940.css.map": "/ManasaDhar1/react_routing1/static/css/main.abea8940.css.map",
-    "main.70affcef.js.map": "/ManasaDhar1/react_routing1/static/js/main.70affcef.js.map",
-    "453.71617d8c.chunk.js.map": "/ManasaDhar1/react_routing1/static/js/453.71617d8c.chunk.js.map"
+    "main.css": "/ManasaDhar1/react_routing/static/css/main.abea8940.css",
+    "main.js": "/ManasaDhar1/react_routing/static/js/main.dfb54c49.js",
+    "static/js/453.71617d8c.chunk.js": "/ManasaDhar1/react_routing/static/js/453.71617d8c.chunk.js",
+    "static/media/logo.svg": "/ManasaDhar1/react_routing/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ManasaDhar1/react_routing/index.html",
+    "main.abea8940.css.map": "/ManasaDhar1/react_routing/static/css/main.abea8940.css.map",
+    "main.dfb54c49.js.map": "/ManasaDhar1/react_routing/static/js/main.dfb54c49.js.map",
+    "453.71617d8c.chunk.js.map": "/ManasaDhar1/react_routing/static/js/453.71617d8c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.abea8940.css",
-    "static/js/main.70affcef.js"
+    "static/js/main.dfb54c49.js"
   ]
 }
