@@ -2,7 +2,7 @@
   "name": "myapp2",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://<your-github-username>.github.io/<your-repo-name>",
+  "homepage": "https://github.com/ManasaDhar1/react_routing1",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
